@@ -46,4 +46,3 @@ app.post("/calc", (req, res) => {
     res.send(String(result));
 });
 
-  
