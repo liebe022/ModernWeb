@@ -42,3 +42,11 @@ function callb(err,data){
 
  fs.readFile('c:/Temp/read.txt','utf-8',callb);
  console.log('done.'); 
+
+
+
+
+
+
+
+ 

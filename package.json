@@ -1,0 +1,22 @@
+{
+  "name": "modernweb",
+  "version": "1.0.0",
+  "description": "HTML_CSS3_Javascript\r Test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liebe022/ModernWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liebe022/ModernWeb/issues"
+  },
+  "homepage": "https://github.com/liebe022/ModernWeb#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
